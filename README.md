@@ -1,5 +1,7 @@
 # KiCAD EasyEDA Parts
 
+THIS REPO IS NOT WOKRING YET
+
 KiCAD Plugin to download footprints, symbols and 3D models from EasyEDA and convert them for KiCAD.
 
 This is a wrapper for [easyeda2kicad.py](https://github.com/uPesy/easyeda2kicad.py) and adds a shortcut in KiCAD with a
